@@ -34,7 +34,7 @@ export default function Footer() {
               </span>
               <Heart className="w-4 h-4 text-red-500 fill-red-500 animate-pulse" />
               <span className="text-3xl font-bold bg-gradient-to-r from-cyan-400 via-violet-400 to-fuchsia-400 bg-clip-text text-transparent">
-                <a href="https://vamsikrishna.tech/"> vamsikrishna</a>
+                <a href="https://vamsikrishna.tech/">#  vamsikrishna</a>
               </span>
             </div>
           </div>
